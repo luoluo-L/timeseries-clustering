@@ -5,8 +5,7 @@
 *.json
 *.log
 
-*.jpg
-*.png
+
 
 *.wav
 *.m4a
